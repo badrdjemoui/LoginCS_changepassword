@@ -1,0 +1,1 @@
+can search for existing servers ,finding database by name and put all users in combobox ,the user select their name and entre their password if all infromation are correct the user can change the password an enter the comfirmation.
